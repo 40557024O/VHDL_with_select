@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="HW1">
+		<CBX_INST_ENTRY INSTANCE_NAME="|HW1|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_6mm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|HW1|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_9em.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|HW1|lpm_mult:Mult0" CBX_FILE_NAME="mult_pet.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
